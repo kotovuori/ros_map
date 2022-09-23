@@ -876,3 +876,10 @@
   address: Studentų g. 65, Kaunas 51369
   description: We are experts in 3D/2D Computer Vision, Artificial Intelligence, Robotics
   link: matom.ai
+-name: University of Turku
+  type: school
+  lat: 60.4563
+  long: 22.2851
+  address: Turku, Finland
+  description: Turku Intelligent Embedded & Robotic Systems (TIERS) Research Group | Research and Education in Action utilising ROS2 in various autonomous aerial and ground vehichles.  
+  link: https://tiers.utu.fi
